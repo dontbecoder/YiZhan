@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.example.administrator.yijing.MainActivity">
+<item
+    android:id="@+id/action_preface"
+    android:orderInCategory="100"
+    android:title="@string/action_preface"
+    app:showAsAction="never" />
+<item
+    android:id="@+id/action_settings"
+    android:orderInCategory="100"
+    android:title="@string/action_settings"
+    android:visible="false"
+    app:showAsAction="never" />
+<item
+    android:id="@+id/action_prev_tag"
+    android:orderInCategory="100"
+    android:title="@string/action_prev_tag"
+    app:showAsAction="never" />
+<item
+    android:id="@+id/update_bin"
+    android:orderInCategory="100"
+    android:title="@string/action_updateAPK"
+    app:showAsAction="never" />
+<item
+    android:id="@+id/action_about"
+    android:orderInCategory="100"
+    android:title="@string/action_about"
+    app:showAsAction="never" />
+</menu>
