@@ -11,6 +11,7 @@
 	<string name="ver_title">版本信息</string>
 	<string name="ver_info">V0.1之 潛龍勿用</string>
     <string name="main_title">心\t\t誠\t\t則\t\t靈</string>
+	<string name="splash_string">至\t\t誠\t\t無\t\t息\n\n\n可\t\t以\t\t前\t\t知</string>
 
 	<string name="soft_update_no">已是最新版本</string>
 	<string name="soft_update_title">軟體更新</string>
